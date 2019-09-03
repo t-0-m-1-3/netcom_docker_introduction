@@ -1,0 +1,1 @@
+Apart from chapter 1, 5, 7, 8, 9, 10, 11 does not contains any code.
