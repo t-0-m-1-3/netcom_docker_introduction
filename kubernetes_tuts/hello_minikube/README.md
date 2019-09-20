@@ -3,7 +3,9 @@
 * Deploy a hello world app to `minikube`:
 	* we need to install kubernetes
 	* we need to install minikube
-		* since we are running minikube on the VM we need to use the flag `minikube start --vm-driver=none`
+		* since we are running minikube on the VM we need to use the flag 
+		* `minikube start --vm-driver=none`
+		* `minikube dashboard`
 
 * Run the Application we make
 * View the Logs
